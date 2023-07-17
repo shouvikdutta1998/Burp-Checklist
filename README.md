@@ -1,6 +1,4 @@
 # Burp-Checklist
-Welcome to the Burp Suite Checklist for Web Application Security Testing! This checklist is a comprehensive guide designed to help security professionals and developers perform targeted security assessments on web application behaviour using Burp Repeater within each and every request you send
-
 The checklist includes a set of test cases to evaluate various aspects of web application security, such as parameters, query strings, HTTP headers, cookies, hidden fields, and more. By using Burp Repeater, you can test each request individually and identify potential vulnerabilities, including SQL injection, XSS, command injection, and other security threats.
 
 # Parameters
