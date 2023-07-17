@@ -1,6 +1,8 @@
 # Burp-Checklist
 The checklist includes a set of test cases to evaluate various aspects of web application security, such as parameters, query strings, HTTP headers, cookies, hidden fields, and more. By using Burp Repeater, you can test each request individually and identify potential vulnerabilities, including SQL injection, XSS, command injection, and other security threats.
 
+![image](https://github.com/shouvikdutta1998/Burp-Checklist/assets/26036899/fef46909-9398-4290-a0d4-2d1415415224)
+
 # Parameters
 ☐ Try entering null values, empty values, and special characters.  
 ☐ Try injecting SQL code, XSS code, and command injection code.  
